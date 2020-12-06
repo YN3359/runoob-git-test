@@ -1,0 +1,79 @@
+PROCESSOR_ARCHITEW6432	AMD64
+PROMPT	$P$G
+USERDOMAIN_ROAMINGPROFILE	DESKTOP-44CJACC
+LOCALAPPDATA	C:\Users\15465\AppData\Local
+PROCESSOR_LEVEL	6
+USERDOMAIN	DESKTOP-44CJACC
+FPS_BROWSER_APP_PROFILE_STRING	Internet Explorer
+LOGONSERVER	\\DESKTOP-44CJACC
+SESSIONNAME	Console
+ALLUSERSPROFILE	C:\ProgramData
+PROCESSOR_ARCHITECTURE	x86
+PSMODULEPATH	C:\Program Files\WindowsPowerShell\Modules;C:\windows\system32\WindowsPowerShell\v1.0\Modules
+SYSTEMDRIVE	C:
+ONEDRIVE	C:\Users\15465\OneDrive
+APPDATA	C:\Users\15465\AppData\Roaming
+USERNAME	15465
+PROGRAMFILES(X86)	C:\Program Files (x86)
+COMMONPROGRAMFILES	C:\Program Files (x86)\Common Files
+PATH	C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files\Intel\WiFi\bin\;C:\Program Files\Common Files\Intel\WirelessCommon\;C:\Program Files\dotnet\;D:\Programs\Python\Python37-32\Scripts\;D:\Programs\Python\Python37-32\;D:\Program Files\Python\Scripts\;D:\Program Files\Python\;C:\Users\15465\AppData\Local\Microsoft\WindowsApps;D:\Programs\Fiddler;D:\mysql-8.0.19-winx64\bin;C:\MinGW\bin;
+FPS_BROWSER_USER_PROFILE_STRING	Default
+PATHEXT	.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC
+DRIVERDATA	C:\Windows\System32\Drivers\DriverData
+OS	Windows_NT
+ONEDRIVECONSUMER	C:\Users\15465\OneDrive
+COMPUTERNAME	DESKTOP-44CJACC
+PROCESSOR_REVISION	8e0c
+COMMONPROGRAMW6432	C:\Program Files\Common Files
+COMSPEC	C:\windows\system32\cmd.exe
+PROGRAMDATA	C:\ProgramData
+PROGRAMW6432	C:\Program Files
+HOMEPATH	\Users\15465
+SYSTEMROOT	C:\windows
+TEMP	C:\Users\15465\AppData\Local\Temp
+HOMEDRIVE	C:
+PROCESSOR_IDENTIFIER	Intel64 Family 6 Model 142 Stepping 12, GenuineIntel
+USERPROFILE	C:\Users\15465
+TMP	C:\Users\15465\AppData\Local\Temp
+COMMONPROGRAMFILES(X86)	C:\Program Files (x86)\Common Files
+PROGRAMFILES	C:\Program Files (x86)
+PUBLIC	C:\Users\Public
+NUMBER_OF_PROCESSORS	8
+WINDIR	C:\windows
+DJANGO_SETTINGS_MODULE	movie.settings
+RUN_MAIN	true
+SERVER_NAME	activate.navicat.com
+GATEWAY_INTERFACE	CGI/1.1
+SERVER_PORT	8000
+REMOTE_HOST	
+CONTENT_LENGTH	
+SCRIPT_NAME	
+SERVER_PROTOCOL	HTTP/1.1
+SERVER_SOFTWARE	WSGIServer/0.2
+REQUEST_METHOD	GET
+PATH_INFO	/dy/index/
+QUERY_STRING	
+REMOTE_ADDR	127.0.0.1
+CONTENT_TYPE	text/plain
+HTTP_HOST	127.0.0.1:8000
+HTTP_CONNECTION	keep-alive
+HTTP_CACHE_CONTROL	max-age=0
+HTTP_UPGRADE_INSECURE_REQUESTS	1
+HTTP_USER_AGENT	Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.116 Safari/537.36
+HTTP_ACCEPT	text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9
+HTTP_SEC_FETCH_SITE	none
+HTTP_SEC_FETCH_MODE	navigate
+HTTP_SEC_FETCH_USER	?1
+HTTP_SEC_FETCH_DEST	document
+HTTP_ACCEPT_ENCODING	gzip, deflate, br
+HTTP_ACCEPT_LANGUAGE	zh-TW,zh;q=0.9,en-US;q=0.8,en;q=0.7,zh-CN;q=0.6
+HTTP_COOKIE	csrftoken=7wRyFrGiajnjf05DCJW0cQMT737kUqYveCf4eSU9n96NWT0l5XdcVuLMbENrjOaT
+wsgi.input	
+wsgi.errors	<_io.TextIOWrapper name='' mode='w' encoding='utf-8'>
+wsgi.version	(1, 0)
+wsgi.run_once	False
+wsgi.url_scheme	http
+wsgi.multithread	True
+wsgi.multiprocess	False
+wsgi.file_wrapper	
+CSRF_COOKIE	7wRyFrGiajnjf05DCJW0cQMT737kUqYveCf4eSU9n96NWT0l5XdcVuLMbENrjOaT
